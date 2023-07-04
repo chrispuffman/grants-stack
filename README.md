@@ -60,7 +60,7 @@ This package serves the app which holds all the features w.r.t to
 
 More information can be found within the [round-manager package](packages/round-manager)
 
-##### Development
+##### Developments
 
 We welcome external contributions. Please make sure to familiarize yourself with the [Contribution Guide](CONTRIBUTING.md).
 
@@ -82,7 +82,7 @@ We welcome external contributions. Please make sure to familiarize yourself with
 
 To contribute to this project, fork the project and follow the instructions at [DEV.md](packages/grant-explorer/docs/DEV.md)
 
-##### Hosting
+##### Hostings
 
 All the frontend dApps are hosted via [fleek.co](https://fleek.co/).
 
